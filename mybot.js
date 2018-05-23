@@ -77,7 +77,7 @@ client.on("message", (message) => {
     
 });
 
-client.login("NDQ2OTg5MzU1ODM2NTA2MTMy.DeBDAw.FMXqxJvIENh_748SH9V5gZ3cge8");
+client.login("");
 
 //Decission stuff
 var options = []; 
